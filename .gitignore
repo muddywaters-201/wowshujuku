@@ -1,0 +1,6 @@
+*.exe
+*.gz
+*.sqlite
+*.sqlite-*
+profile/
+release-files/
